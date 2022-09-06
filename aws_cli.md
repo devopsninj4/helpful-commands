@@ -13,5 +13,5 @@ https://brad-simonin.medium.com/create-an-aws-vpc-and-subnet-using-the-aws-cli-a
 
 ```bash
 vpc_id=$(aws ec2 create-vpc --cidr-block 10.0.0.0/16 --query Vpc.VpcId --tag-specifications \
-  'ResourceType=vpc,Tags=[{Key=name,Value=my-vpc}] --output text)
+'ResourceType=vpc,Tags=[{Key=name,Value=my-vpc}] --output text)
 ```
