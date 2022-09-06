@@ -15,6 +15,8 @@ https://brad-simonin.medium.com/create-an-aws-vpc-and-subnet-using-the-aws-cli-a
 vpc_id=$(aws ec2 create-vpc --cidr-block 10.0.0.0/16 --query Vpc.VpcId --tag-specifications \
 'ResourceType=vpc,Tags=[{Key=name,Value=my-vpc}] --output text)
 ```
+</p>
+</details>
 
 ## Create vpc, subnets, internet gateway and route table
   
@@ -45,6 +47,9 @@ aws ec2 associate-route-table --subnet-id $public_subnet --route-table $rt_id
   
 aws ec2 modify-subnet-attribute --subnet-id $public_subnet --map-public-ip-on-launch
 ```
+</p>
+</details>
+
   
 ## Filter subnet with the tag Name=public_subnet
   
