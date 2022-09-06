@@ -57,6 +57,5 @@ aws ec2 modify-subnet-attribute --subnet-id $public_subnet --map-public-ip-on-la
 <p>
   
 ```bash
-aws ec2 create-route --route-table-id $rt_id --destination-cidr-block 0.0.0.0/0 \
---gateway-id $igw_id)
+aws ec2 describe-subnets --filters Name=tag:Name,Values=public_subnet --query "Subnets[*].SubnetId" --output text
 ```
