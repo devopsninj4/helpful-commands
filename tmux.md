@@ -56,7 +56,7 @@ Press CTRL + B
 :select-pane -d
 ```
 Disable a pane
-  
+    
 ```bash
 :select-pane -e
 ```
