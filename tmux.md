@@ -46,6 +46,7 @@ tmux kill-session -a -t my-session
 
 <details><summary>Disable/Enable panes</summary>
 <p>
+  
   PS: These commands must be executed within a tmux session
 
   
