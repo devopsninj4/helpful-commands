@@ -32,7 +32,8 @@ tmux kill-session -t my-session
 Kill all sessions but the current
 ```bash
 tmux kill-session -a
-```<space>\<space>
+```
+<space>\<space>
 Kill all sessions but my-session
 ```bash
 tmux kill-session -a -t my-session
