@@ -4,6 +4,7 @@
 
 <details><summary>Create a new session</summary>
 <p>
+  
 ```bash
 tmux
 ```
