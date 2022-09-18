@@ -3,11 +3,7 @@
 <details><summary>Links</summary>
 <p>
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
-
-https://docs.aws.amazon.com/cli/latest/reference/ec2/create-vpc.html
-
-https://brad-simonin.medium.com/create-an-aws-vpc-and-subnet-using-the-aws-cli-and-bash-a92af4d2e54b
+https://www.linode.com/docs/guides/persistent-terminal-sessions-with-tmux/
 
 </p>
 </details>  
