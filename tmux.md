@@ -6,13 +6,13 @@
 <p>
 ```bash
 tmux
-  ```
+```
   
 ```bash
 tmux new
 ```
 
-  ```bash
+```bash
 tmux new -s my-session
 ```
 </p>
