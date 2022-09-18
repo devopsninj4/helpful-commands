@@ -44,12 +44,12 @@ tmux kill-session -a -t my-session
 
 ## Panes
 
-<details><summary></summary>
+<details><summary>Disable/Enable panes</summary>
 <p>
-PS: These commands must be executed within a tmux session
+  PS: These commands must be executed within a tmux session
 
   To open command mode, press
-Press <CTRL> + <B> + <:>
+Press CTRL + B
 
   
 ```bash
