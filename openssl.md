@@ -31,7 +31,7 @@ openssl rsa -in my-key.pem -pubout my-pub-key.pem
 </p>
 </details>
 
-# Show information
+## Display information
 
 <details><summary>Show certificate details</summary>
 <p>
