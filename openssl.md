@@ -30,3 +30,13 @@ openssl rsa -in my-key.pem -pubout my-pub-key.pem
 ```
 </p>
 </details>
+
+# Show information
+
+<details><summary>Show certificate details</summary>
+<p>
+  
+```bash
+#Private key
+openssl x509 -text -in my-cert.crt -noout
+```
