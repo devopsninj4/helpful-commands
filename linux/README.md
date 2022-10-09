@@ -31,7 +31,7 @@
   </p>
   </details>
   
-  <details><summary>Install package alpine linux</summary>
+  <details><summary>Install package on alpine linux</summary>
   <p>
     
   ```bash
