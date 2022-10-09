@@ -2,15 +2,15 @@
 
 <details><summary>Links</summary>
 <p>
+https://www.freecodecamp.org/news/git-cheat-sheet/
 
 </p>
-</details>  
+</details>
 
 ## GENERAL
 
 <details><summary>Linux command line general tips</summary>
 <p>
-
 
   <details><summary>Remove files starting with a dash</summary>
   <p>
@@ -34,12 +34,10 @@
 </p>
 </details>
 
-
 ## GNOME
 
 <details><summary>Gnome related settings</summary>
 <p>
-
 
   <details><summary>Display all buttons on menu bar</summary>
   <p>
@@ -62,7 +60,6 @@
   </p>
   </details>
 
-
   <details><summary>Watch for changes in gnome configuration</summary>
   <p>
     
@@ -76,5 +73,3 @@
 
 </p>
 </details>
-
-
