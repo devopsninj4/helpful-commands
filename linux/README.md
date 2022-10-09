@@ -30,6 +30,18 @@
 
   </p>
   </details>
+  
+  <details><summary>Install package alpine linux</summary>
+  <p>
+    
+  ```bash
+  apk -U add <package-name>
+  ```
+
+  </p>
+  
+  
+  </details>
 </p>
 </details>
 
