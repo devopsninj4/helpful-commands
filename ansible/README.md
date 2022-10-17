@@ -58,12 +58,3 @@ ansible -m ping all
 
 </p>
 </details>
-
-## Filter subnet with the tag Name=public_subnet
-
-<details><summary>Commands</summary>
-<p>
-  
-```bash
-aws ec2 describe-subnets --filters Name=tag:Name,Values=public_subnet --query "Subnets[*].SubnetId" --output text
-```
