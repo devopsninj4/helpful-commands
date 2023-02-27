@@ -39,7 +39,25 @@
   ```
 
   </p>
+
+  <details><summary>Simulate removal of apt-get cache files from disk</summary>
+  <p>
+    
+  ```bash
+  sudo apt-get clean --dry-run
+  ```
+
+  </p>
   
+  
+  <details><summary>Remove apt-get cache files from disk</summary>
+  <p>
+    
+  ```bash
+  sudo apt-get clean
+  ```
+
+  </p>
   
   </details>
 </p>

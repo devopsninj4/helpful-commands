@@ -58,3 +58,14 @@ ansible -m ping all
 
 </p>
 </details>
+
+<details><summary>Get information from hosts</summary>
+<p>
+
+```bash
+#get facts
+ansible -m setup all
+```
+
+</p>
+</details>
