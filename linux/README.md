@@ -39,6 +39,7 @@
   ```
 
   </p>
+  </details>
 
   <details><summary>Simulate removal of apt-get cache files from disk</summary>
   <p>
@@ -48,7 +49,7 @@
   ```
 
   </p>
-  
+  </details>
   
   <details><summary>Remove apt-get cache files from disk</summary>
   <p>
@@ -58,8 +59,9 @@
   ```
 
   </p>
-  
   </details>
+  
+  
 </p>
 </details>
 
